@@ -13,7 +13,6 @@
 ![](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Redis-D9281A?logo=redis&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/SQLAlchemy-306998?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ![](https://img.shields.io/badge/Kafka-4f4f4f?logo=apache-kafka&logoColor=white&style=for-the-badge)
 
