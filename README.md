@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src='gif.gif' width="600"/>
+<img src='gif1.gif' width="600"/>
 
 # Hi there 👋
 ### I mostly program in Python, have Js and Java experience🤯
