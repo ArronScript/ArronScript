@@ -3,7 +3,6 @@
 <img src='gif1.gif' width="600"/>
 
 # Hi there 👋
-### I mostly program in Python, have Js and Java experience🤯
 ### My stack:
 ![](https://img.shields.io/badge/python-367?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
